@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Jesse Huang's Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "author": "Jesse Huang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
